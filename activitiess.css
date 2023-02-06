@@ -1,0 +1,31 @@
+@charset "utf-8";
+.containter {
+	background-color: #DD7368;
+	width: 1170px;
+	text-align: center;
+	padding-top: 0px;
+	margin-top: -50px;
+	margin-left: -10px;
+}
+body nav a {
+	margin-top: 35px;
+	padding-left: 55px;
+}
+
+
+.containter img {
+	padding-left: 0px;
+	text-align: center;
+	margin-top: 40px;
+	margin-left: 138px;
+	float: none;
+}
+img {
+	margin-top: -7px;
+	margin-left: -38px;
+	margin-right: 474px;
+	text-align: center;
+	margin-bottom: -13px;
+	padding-bottom: 15px;
+	padding-left: 42px;
+}
